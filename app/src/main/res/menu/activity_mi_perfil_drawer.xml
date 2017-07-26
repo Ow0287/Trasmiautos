@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_menu_camera"
+            android:onClick="inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_registro"
+            android:icon="@drawable/ic_menu_gallery"
+            android:onClick="registro"
+            android:title="Registro de autos" />
+        <item
+            android:id="@+id/nav_servicios"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:onClick="servicios"
+            android:title="Servicios" />
+
+        <item
+            android:id="@+id/nav_mi_perfil"
+            android:onClick="perfil"
+            android:title="Mi Perfil" />
+        <item
+            android:id="@+id/nav_acerca_de"
+            android:onClick="acercade"
+            android:title="Acerca De" />
+
+        <item
+            android:id="@+id/nav_salir"
+            android:onClick="salir"
+            android:title="Salir" />
+    </group>
+
+
+
+</menu>

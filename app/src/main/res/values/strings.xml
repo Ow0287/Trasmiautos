@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trasmiautos</string>
+    <string name="mensaje">Nuestra aplicacion TrasmiAutos, fue diseñada para ofrecer los servicios relacionados con el mantenimientos en reglas de los autos en colombia para facilitarle a los usuarios conductores y propietarios los trasmites a realizar evitando asi largas filas y facilitando el trasmite de estos documentos en colombia. </string>
+    <string name="btn_registrar">Registrarse</string>
+    <string name="senasoft">SENASOFT 2017</string>
+    <string name="participantes1">Participantes 1</string>
+    <string name="participantes2">Participantes 2</string>
+    <string name="title_activity_mi_perfil">MiPerfil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="fecha_de_nacimiento">Fecha De Nacimiento</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="vencimiento_licencia">Vencimiento Licencia Conduccion</string>
+    <string name="btn_guardar_registro">Guardar Registro Conductor</string>
+    <string name="soat"> Renovacion Soat</string>
+    <string name="tecno">Revision Tecno Mecanica</string>
+    <string name="pago_de_impuestos">Pago De Impuesto Vehicular</string>
+    <string name="pico_y_placa">Pico Y Placa</string>
+    <string name="title_activity_eventos">Eventos</string>
+    <string name="txv_evento">Proximos Eventos</string>
+</resources>
